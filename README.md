@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -86,7 +86,7 @@
   <li>Name - Manya Rajput
    <li>contact no. - 9315113995
 <li>Address - Jaipuria Heritage , Bameta , UttarPradesh</li>
-</section>
+
 
 <hr>
 <section id="edu">
@@ -95,7 +95,7 @@
     <li>Course -Btech - CSE - core
  <li>Durtion - 4 Years</li>
 
-</section>
+
 <hr>
 <section id="edu">
   <h2>Skills</h2>
@@ -104,7 +104,7 @@
  <li>Dedicated personal
   <li>Independent</li>
 
-</section>
+
 <hr>
 
 <section id="edu">
@@ -117,14 +117,15 @@
   <li><a href="../4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project/index.html">4.3</a>
     <li><a href="./new.html">unend wheel delay</a></li>
 
-</section>
+
 <hr>
 
 
   
-</body>
+
 <hr>
 <footer>copyright,since 2024</footer>
+</body>
 </html>
 
       
